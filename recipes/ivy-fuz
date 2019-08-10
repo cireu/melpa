@@ -1,0 +1,2 @@
+(ivy-fuz :repo "cireu/fuz.el" :fetcher github
+         :files ("ivy-fuz.el"))
